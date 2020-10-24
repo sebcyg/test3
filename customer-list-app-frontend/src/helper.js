@@ -1,3 +1,3 @@
 export const server = {
-    baseURL: 'http://localhost:3000'
+    baseURL: 'https://3000-e49f5034-29ea-4cc4-a39e-f291eec91466.ws-eu01.gitpod.io'
 }
