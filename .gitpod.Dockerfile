@@ -5,3 +5,5 @@ FROM gitpod/workspace-mongodb
 # RUN brew install bastet
 #
 # More information: https://www.gitpod.io/docs/config-docker/
+RUN sudo npm install -g @nestjs/cli
+RUN sudo npm install -g @vue/cli
